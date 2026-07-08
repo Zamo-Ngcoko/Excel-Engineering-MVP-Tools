@@ -14,13 +14,13 @@ This portfolio demonstrates that I am not only involved in managing projects, pr
 
 These tools support:
 
-- ✅ Plant issue capture and reliability tracking  
-- ✅ Water treatment and water resilience planning  
-- ✅ Wastewater and COD impact modelling  
-- ✅ CAPEX motivation and project support  
-- ✅ Weekly and bi-weekly reporting  
-- ✅ Savings identification and loss reduction  
-- ✅ Practical MVP development before larger digital systems  
+✅ Plant issue capture and reliability tracking  
+✅ Water treatment and water resilience planning  
+✅ Wastewater and COD impact modelling  
+✅ CAPEX motivation and project support  
+✅ Weekly and bi-weekly reporting  
+✅ Savings identification and loss reduction  
+✅ Practical MVP development before larger digital systems  
 
 ---
 
